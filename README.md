@@ -4,7 +4,7 @@ A simple and efficient currency converter built to provide real-time exchange ra
 Features:
 - Convert between a variety of world currencies.
 - Fetch real-time exchange rates from trusted APIs.
-- Clean and responsive UI for an intuitive user experience.
+- Clean and responsive UI for an intuitive user experience. 
 - Supports historical rate lookups for trend analysis.
 - Lightweight and easy to integrate into other projects.
 
